@@ -1,0 +1,14 @@
+h1{
+  font-family: 'Merriweather', serif;
+}
+h3{
+	font-family: 'Zilla Slab', serif;
+}
+h6{
+	font-family: 'Alegreya Sans', sans-serif;
+}
+.my-body{
+	border-style: solid;
+  border-width: 10px;
+  border-color: #BF826B;
+}
