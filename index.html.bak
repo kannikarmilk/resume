@@ -24,7 +24,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&amp;display=swap"
 
       rel="stylesheet">
-    <title>Kannikar Pispunt Resume</title>
+    <title>640510020 Kannikar Pispunt</title>
     <style>
         .center-image {
             display: flex;
@@ -32,11 +32,8 @@
             align-items: center;
         }
     </style>
-    <meta name="description" content="Silpakorn">
-    <meta name="keywords" content="Resume,Kannika">
   </head>
-  <body style="                                                              background-color:#F2E1D8;">
-    
+  <body style="                                                             background-color:#F2E1D8;">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid"> <button class="navbar-toggler" type="button"
 
